@@ -15,10 +15,10 @@ $ionic serve
 <h3>To view application in mobile simulated platforms</h3>
 $ionic serve --l
 <h3>Adding platforms </h3>
-To add android platform<br/>
+<i>To add android platform</i><br/>
 $ionic cordova platform add android
 <br/>
-To add iOS platform<br/>
+<i>To add iOS platform</i><br/>
 $ionic cordova platform add ios
 <h3>Build an android apk</h3><br/>
 $ionic cordova build android
