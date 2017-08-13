@@ -1,4 +1,4 @@
-# WeatherApp---Hybrid-Mobile-Application
+# WeatherApp
 Weather application developed using Ionic 3 and Angular 4
 <hr>
 <br/>
