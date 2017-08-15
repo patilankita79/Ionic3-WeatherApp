@@ -23,6 +23,6 @@ In Settings page, you can enter city and its state. After saving changes, applic
 <br/>
 <i>To add iOS platform</i><br/>
 <blockquote>$ionic cordova platform add ios</blockquote>
-<h3>Build an android apk</h3><br/>
+<h3>Build an android apk</h3>
 <blockquote>$ionic cordova build android</blockquote>
 
