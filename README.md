@@ -7,19 +7,22 @@ In Settings page, you can enter city and its state. After saving changes, applic
 
 <hr>
 <h3>Installation: </h3>
-$npm install
-<h3>Serve the application to browser: </h3>
+<blockquote>$npm install</blockquote>
 
-$ionic serve
+<h3>Serve the application to browser: </h3>
+<blockquote>$ionic serve</blockquote>
+
 
 <h3>To view application in mobile simulated platforms</h3>
-$ionic serve --l
+<blockquote>$ionic serve --l</blockquote>
+
 <h3>Adding platforms </h3>
+
 <i>To add android platform</i><br/>
-$ionic cordova platform add android
+<blockquote>$ionic cordova platform add android</blockquote>
 <br/>
 <i>To add iOS platform</i><br/>
-$ionic cordova platform add ios
+<blockquote>$ionic cordova platform add ios</blockquote>
 <h3>Build an android apk</h3><br/>
-$ionic cordova build android
+<blockquote>$ionic cordova build android</blockquote>
 
