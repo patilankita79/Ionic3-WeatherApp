@@ -6,6 +6,11 @@ API requests are made over HTTP. Data feature returns JSON data.<br/>
 In Settings page, you can enter city and its state. After saving changes, application displays temperature, relative humidity, dewpoint, heat index. Default location for this application is Miami, FL
 
 <hr>
+<h3>Application interface for iOS and Android platforms</h3>
+<img src = "https://github.com/patilankita79/WeatherApp/blob/master/Screenshots/Screenshot%202017-09-14%2011.38.08.png" />
+<img src = "https://github.com/patilankita79/WeatherApp/blob/master/Screenshots/Screenshot%202017-09-14%2011.37.35.png" />
+<img src = "https://github.com/patilankita79/WeatherApp/blob/master/Screenshots/Screenshot%202017-09-14%2011.37.56.png" />
+<hr>
 <h3>Installation: </h3>
 <blockquote>$npm install</blockquote>
 
