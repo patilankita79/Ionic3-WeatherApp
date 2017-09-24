@@ -20,6 +20,8 @@ In Settings page, you can enter city and its state. After saving changes, applic
 
 <h3>To view application in mobile simulated platforms</h3>
 <blockquote>$ionic serve --l</blockquote>
+OR
+<blockquote>$ionic lab</blockquote>
 
 <h3>Adding platforms </h3>
 
