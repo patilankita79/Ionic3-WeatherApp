@@ -1,5 +1,5 @@
-# WeatherApp
-Weather application developed using Ionic 3 and Angular 4
+# WeatherApp - Hybrid Mobile Application
+Weather application developed using Ionic 3 and Angular 4 with the use of wnderground API to fetch weather information.
 <hr>
 WeatherApp is a hybrid mobile application developed in Ionic 3 framework. It uses wunderground API to report the weather of cities in US. Ionic storage is also implemented to store the location information in ionic.<br/>
 API requests are made over HTTP. Data feature returns JSON data.<br/>
