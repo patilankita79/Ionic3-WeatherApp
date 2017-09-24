@@ -31,8 +31,8 @@ In Settings page, you can enter city and its state. After saving changes, applic
 <h3>Build an android apk</h3>
 <blockquote>$ionic cordova build android</blockquote>
 <hr> 
-While building an APK you might yet an error => <strong>Module not found: Error: Can't resolve 'promise-polyfill' </strong>
-Refer => https://github.com/ionic-team/ionic-app-scripts/issues/1001
+While building an APK you might yet an error => <strong>Module not found: Error: Can't resolve 'promise-polyfill' </strong><br>
+Refer this issue => https://github.com/ionic-team/ionic-app-scripts/issues/1001
 
 <b>Solution: </b>
 <blockquote>npm install promise-polyfill --save-exact</blockquote>
