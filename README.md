@@ -37,7 +37,8 @@ While building an APK you might yet an error => <strong>Module not found: Error:
 Refer this issue => https://github.com/ionic-team/ionic-app-scripts/issues/1001
 
 <b>Solution: </b>
-<blockquote>npm install promise-polyfill --save-exact</blockquote>
+In the project directory run the following command,
+<blockquote>$npm install promise-polyfill --save-exact</blockquote>
 
 and then run the command
-<blockquote>ionic cordova build android</blockquote>
+<blockquote>$ionic cordova build android</blockquote>
